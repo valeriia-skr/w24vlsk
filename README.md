@@ -20,4 +20,4 @@ The package consists of the next repos and modules:
     
   **- app.py (API)**
   
-  **- delivery_fee_generfator** (contains abric-function to create a single calculation for a better async. processes' control)
+  **- delivery_fee_generator** (contains abric-function to create a single calculation for a better async. processes' control)
