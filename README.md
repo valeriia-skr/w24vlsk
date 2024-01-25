@@ -1,5 +1,3 @@
-# wolt_2024_delivery_fee_calc
-
 This is a delivery fee calculator for Wolt API. 
 
 The package consists of the next repos and modules:
