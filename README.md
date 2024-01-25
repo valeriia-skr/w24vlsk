@@ -1,4 +1,4 @@
-# wolt_2024_discovery_fee_calc
+# wolt_2024_delivery_fee_calc
 
 This is a delivery fee calculator for Wolt API. 
 
