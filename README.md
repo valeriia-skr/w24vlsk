@@ -1,6 +1,8 @@
 # wolt_2024_discovery_fee_calc
 
 This is a delivery fee calculator for Wolt API. 
+
+
 The package consists of the next repos and modules:
   **x delivery** (contains all the modules, connected with the delivery fee calciulstion): 
     **- delivery_fee_calculation.py** (all the classes and functions connected with the delivery fee calculation)
