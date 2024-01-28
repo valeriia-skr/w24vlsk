@@ -11,7 +11,7 @@ app = Flask(__name__)
 def get_delivery_fee():
     try:
         data = request.get_json()
-        cart_value = float(data['cart_value'])
+        cart_value = int(data['cart_value'])
         number_of_items = int(data['number_of_items'])
         order_time = datetime.strptime(data['order_time'], '%Y-%m-%d %H:%M:%S')
         delivery_distance = int(data['delivery_distance'])
